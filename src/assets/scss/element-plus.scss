@@ -1,0 +1,8 @@
+@import "config";
+
+/* 改变主题色变量 */
+$--color-primary: $colorM2;
+
+$--font-path: '~element-plus/lib/theme-chalk/fonts';
+
+@import "~element-plus/packages/theme-chalk/src/index";
